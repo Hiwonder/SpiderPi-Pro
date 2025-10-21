@@ -1,0 +1,70 @@
+#第5章 AI视觉玩法课程/第1课 位置校准
+python3 /home/pi/spiderpi/functions/camera_cal_main.py
+
+#第5章 AI视觉玩法课程/第2课 颜色识别
+python3 /home/pi/spiderpi/functions/color_detect.py
+
+#第5章 AI视觉玩法课程/第3课 智能巡线
+python3 /home/pi/spiderpi/functions/visual_patrol.py
+
+#第5章 AI视觉玩法课程/第4课 颜色追踪
+python3 /home/pi/spiderpi/functions/color_track.py
+
+#第5章 AI视觉玩法课程/第5课 人脸识别
+python3 /home/pi/spiderpi/functions/face_detect.py
+
+#第5章 AI视觉玩法课程/第6课 标签识别
+python3 /home/pi/spiderpi/functions/apriltag_detect.py
+
+#第5章 AI视觉玩法课程\第7课 自动避障
+python3 /home/pi/spiderpi/functions/avoidance.py
+
+#第6章 A视觉进阶课程\1.进阶课程之形状识别玩法课程\第1课 单种颜色形状识别
+python3 /home/pi/spiderpi/advanced/shape_recognition_plain.py
+
+#第6章 A视觉进阶课程\1.进阶课程之形状识别玩法课程\第2课 形状识别
+python3 /home/pi/spiderpi/advanced/shape_recognition.py
+
+#第6章 A视觉进阶课程\2.进阶课程之智能踢球玩法课程\第1课 小球定位
+python3 /home/pi/spiderpi/advanced/ball_orientation.py
+
+#第6章 A视觉进阶课程\2.进阶课程之智能踢球玩法课程\第2课 智能踢“球”
+python3 /home/pi/spiderpi/advanced/intelligent_kick.py
+
+#第6章 A视觉进阶课程\3.进阶课程之智能取物玩法课程\第1课 色块定点夹取
+python3 /home/pi/spiderpi/advanced/block_fetch.py
+
+#第6章 A视觉进阶课程\3.进阶课程之智能取物玩法课程\第2课 智能取物
+python3 /home/pi/spiderpi/advanced/intelligent_fetch.py
+
+#第6章 A视觉进阶课程\4.进阶课程之巡线搬运玩法课程\第1课 色块分拣
+python3 /home/pi/spiderpi/advanced/color_sorting.py
+
+#第6章 A视觉进阶课程\4.进阶课程之巡线搬运玩法课程\第2课 巡线搬运
+python3 /home/pi/spiderpi/advanced/cruise_carry.py
+
+
+#第7章 上位机动作编辑学习课程\第5课 通过命令行的形式调用动作组（选看）
+python3 /home/pi/spiderpi/functions/action_group_control_demo.py
+
+#第8章 群发控制课程\第1课\手柄控制
+python3 /home/pi/spiderpi/joystick.py(已经在systemctl中启动了)
+
+#第8章 群发控制课程\第2课\群发控制
+#客户端
+python3 /home/pi/spiderpi/functions/multi_control_client.py
+#服务端
+python3 /home/pi/spiderpi/functions/multi_control_server.py
+
+
+#第9章 机械臂正逆运动学课程\2.机械臂正逆运动学实战应用\机械臂色块追踪
+python3 /home/pi/spiderpi/kinematic_routines/block_tracking.py
+
+#第9章 机械臂正逆运动学课程\2.机械臂正逆运动学实战应用\机械臂高度调节
+python3 /home/pi/spiderpi/kinematic_routines/arm_fluctuation.py
+
+#第9章 机械臂正逆运动学课程\2.机械臂正逆运动学实战应用\底盘高度调节
+python3 /home/pi/spiderpi/kinematic_routines/pedestal__fluctuation.py
+
+#第9章 机械臂正逆运动学课程\2.机械臂正逆运动学实战应用\机械臂底盘联动
+python3 /home/pi/spiderpi/kinematic_routines/head_stabilizer.py
