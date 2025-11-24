@@ -15,7 +15,7 @@
 ## 官方资源
 
 ### Hiwonder官方
-- **官方网站**: [https://www.hiwonder.net/](https://www.hiwonder.net/)
+- **官方网站**: [https://www.hiwonder.com/](https://www.hiwonder.com/)
 - **产品页面**: [https://www.hiwonder.com/products/spiderpi-pro](https://www.hiwonder.com/products/spiderpi-pro)
 - **官方文档**: [https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/](https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/)
 - **技术支持**: support@hiwonder.com

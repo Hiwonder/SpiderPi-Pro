@@ -13,7 +13,7 @@ Hiwonder SpiderPi Pro is an AI vision hexapod robot kit based on Raspberry Pi 5/
 ## Official Resources
 
 ### Official Hiwonder
-- **Official Website**: [https://www.hiwonder.net/](https://www.hiwonder.net/)
+- **Official Website**: [https://www.hiwonder.com/](https://www.hiwonder.com/)
 - **Product Page**: [https://www.hiwonder.com/products/spiderpi-pro](https://www.hiwonder.com/products/spiderpi-pro)
 - **Official Documentation**: [https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/](https://docs.hiwonder.com/projects/SpiderPi_Pro/en/latest/)
 - **Technical Support**: support@hiwonder.com
