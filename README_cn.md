@@ -3,7 +3,7 @@
 [English](https://github.com/Hiwonder/SpiderPi-Pro/blob/main/README.md) | 中文
 
 <p align="center">
-  <img src="./sources/images/image.webp" alt="SpiderPi Pro Logo" width="400"/>
+  <img src="./sources/images/spiderpi-pro.png" alt="SpiderPi Pro Logo" width="600"/>
 </p>
 
 基于树莓派的AI视觉六足机器人套件，集成视觉机械臂，支持物品识别抓取、智能分拣、多台群控等高级AI应用。

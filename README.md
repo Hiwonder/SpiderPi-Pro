@@ -3,7 +3,7 @@
 English | [中文](https://github.com/Hiwonder/SpiderPi-Pro/blob/main/README_cn.md)
 
 <p align="center">
-  <img src="./sources/images/image.webp" alt="SpiderPi Pro Logo" width="400"/>
+  <img src="./sources/images/spiderpi-pro.png" alt="SpiderPi Pro Logo" width="600"/>
 </p>
 
 ## Product Overview
